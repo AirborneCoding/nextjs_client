@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+=============== 
+GLOCALS STYLES 
+===============
+*/
+
+body {
+  font-weight: 400;
+  line-height: 1.5;
+  transition: all 0.3s linear;
+  overflow-x: hidden
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.body-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition: all 0.3s ease;
+}
+
+/* Responsive Margins */
+@media screen and (min-width: 576px) {
+  .body-container {
+    max-width: 500px;
+  }
+}
+
+/* 768 */
+@media screen and (min-width: 800px) {
+  .body-container {
+    max-width: 600px;
+    /* 720 */
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .body-container {
+    max-width: 960px;
+    /* 960 */
+
+    /* 1100 */
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .body-container {
+    /* 170 */
+    max-width: 1300px;
+    /* 1140 */
+    /* 1220 */
+    /* 1540 */
+
+    /* 1610 */
+
+
+    /* 1200 */
+  }
+}
+
+
+.cairo {
+  font-family: var(--font-cairo);
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+.satistics br {
+  margin: 10px 0;
+}

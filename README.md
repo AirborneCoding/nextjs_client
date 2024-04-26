@@ -1,36 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ -- -H 192.168.8.102
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+------
+"text": "Il a assumé les fonctions de la Direction des Affaires pénales et de la Grâce par intérim le 07 octobre 2017, immédiatement après l'événement de l'indépendance du Ministère public, avant d'être officiellement nommé Directeur des Affaires pénales et de la Grâce le 26 avril 2018. Il est né à Khenifra le 12 août 1979. Il a occupé plusieurs postes de responsabilité au sein de la Direction des Affaires pénales et de la Grâce, notamment en tant que chef du département de la justice pénale, chef du service de surveillance de la criminalité, du service des affaires des détenus et des droits de l'homme. Il a également été conseiller chargé de la politique pénale sous le ministère de la Justice de Mustapha Ramid et dans les premiers mois du mandat du ministre de la Justice, M. Mohamed Aujjar. Il a plusieurs contributions scientifiques en droit pénal sous forme d'ouvrages et d'articles scientifiques, et est professeur à l'Institut Supérieur de la Magistrature pour les matières de droit pénal et de procédure pénale, ainsi que dans de nombreuses facultés de droit au Maroc."
+------
+    "text": "تولى مهام مديرية الشؤون الجنائية والعفو بالنيابة بتاريخ 07 أكتوبر 2017 مباشرة بعد حدث استقلال النيابة العامة، ليتم تعيينه رسميا كمدير للشؤون الجنائية والعفو بتاريخ 26 أبريل 2018، وهو من مواليد مدينة خريبكة بتاريخ 12 غشت 1979، سبق له أن تقلد عدة مناصب المسؤولية داخل مديرية الشؤون الجنائية والعفو كرئيس قسم القضاء الجنائي ورئيس مصلحة رصد ظاهرة الجريمة ومصلحة قضايا السجناء وحقوق الإنسان، كما تولى مهمة مستشار مكلف بالسياسة الجنائية في عهد وزير العدل المصطفى الرميد وفي الأشهر الأولى من تولي الأستاذ محمد أوجار مهمة وزير العدل. له عدة مساهمات علمية في المادة الجنائية في صورة مؤلفات ومقالات علمية، وأستاذ بالمعهد العالي للقضاء لمادتي القانون الجنائي والمسطرة الجنائية وكذا العديد من كليات الحقوق بالمغرب."

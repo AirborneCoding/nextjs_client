@@ -8,13 +8,18 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        // myBlue: '#933C4F',
+        myBlue: '#10283E',
+        myBlue2: '#ebf7ff',
+        myBlue3: '#275682',
       },
     },
   },
-  plugins: [],
+  plugins: [require('daisyui'), require('@tailwindcss/typography')],
+
+  daisyui: {
+    themes: ['winter', 'night'],
+  },
 };
 export default config;
