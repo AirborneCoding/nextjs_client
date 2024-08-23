@@ -4,7 +4,7 @@ const Loading = ({ cards }: { cards: number }) => {
     return (
         <section className={`flex-grow grid lg:grid-cols-1 xl:grid-cols-2 gap-5 lg:w-80`}>
             {Array(cards).fill(0).map((_, index) => (
-                <div className="flex flex-col-reverse shadow-xl ">
+                <div key={index} className="flex flex-col-reverse shadow-xl ">
                     <div className="card-body">
                         <Skeleton height={50} />
                         <Skeleton height={50} />

@@ -8,7 +8,6 @@ const Pagination = ({ pageCount, page }: { pageCount: number, page: number }) =>
     const pathname = usePathname();
     const { replace } = useRouter();
 
-
     function handleClick(term: string) {
         const params = new URLSearchParams(searchParams);
         if (term) {

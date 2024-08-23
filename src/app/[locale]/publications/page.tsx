@@ -1,4 +1,3 @@
-
 import PublicationsData from "@/components/publications/PublicationsData";
 import { fetchPublications } from "@/utils/actions";
 import { dehydrate, HydrationBoundary, QueryClient } from "@tanstack/react-query";
